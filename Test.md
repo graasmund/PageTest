@@ -6,10 +6,10 @@ Hei, dette er en liten test på å bruke MarkDown for å redigere hjemmeside for
 
 
 
-![](D:\pagetest2\Images\IMG_5465 - Copy.jpg)
+![](Images\IMG_5465 - Copy.jpg)
 
 Her er et annet utsnitt
 
 
 
-![](D:\pagetest2\Images\IMG_5465.jpg)
+![](Images\IMG_5465.jpg)
