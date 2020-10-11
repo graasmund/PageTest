@@ -12,4 +12,4 @@ Her er et annet utsnitt
 
 
 
-![].\(Images\IMG_5465.jpg)
+![](.\Images\IMG_5465.jpg)
